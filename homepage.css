@@ -1,19 +1,27 @@
 body{
   background-color: #ffbf5e;
+  font-family: sans-serif;
 }
 p{
   margin-right: 70%;
+  margin-top: 6%;
+  font-size: 20px;
 }
 #naam{
   font-size: 75px;
   position: absolute;
-  left: 40%;
-  top: 0.5%;
+  left: 25%;
+  top: 0%;
 }
-img{
+#logo{
   position: absolute;
   left: 55%;
-  top: 7%;
+  top: 5%;
+}
+#img_homepage{
+  position: absolute;
+  left: 42%;
+  top: 40%;
 }
 ul {
   list-style-type: none;
