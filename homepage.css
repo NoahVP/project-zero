@@ -1,7 +1,10 @@
 body{
   background-color: #ffbf5e;
 }
-h1{
+p{
+  margin-right: 70%;
+}
+#naam{
   font-size: 75px;
   position: absolute;
   left: 40%;
