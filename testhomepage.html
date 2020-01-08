@@ -1,12 +1,57 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" type="text/css" href="testhomepage.css">
+<script src="testhomepage.js"></script>
 <title>Page Title</title>
 </head>
 <body>
+<ul>
+  <li><a class="active" href="homepage.html">Home</a></li>
+  <li><a href="Paul.html">Paul</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+<h1 class="headers">paul project</h1>
+<p class="headers" id="ondertekst">PLAYFUL DATA-DRIVEN ACTIVE URBAN LIVING</p>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1
+}
 
-<h1>paul project</h1>
-<p>PLAYFUL DATA-DRIVEN ACTIVE URBAN LIVING</p>
+li {
+  float: left;
+}
 
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: red;
+}
+</style>
+<p id="tekst1">Paul staat voor PLAYFUL DATA-DRIVEN ACTIVE URBAN LIVING en is bedoeld om mensen
+  slim in beweging te krijgen. Dit word gedaan door bacons en en slimme app die je
+  helpt en motiveert. In samenwerking met de gemeente Amsterdam zijn in het
+  Amstelpark en het Oosterpark allerlei zendertjes geplaatst. Zogenaamde beacons.
+   Daardoor kun je op bepaalde plekken speciale oefeningen doen of je wordt
+   aangemoedigd met motiverende berichten.
+</p>
 </body>
 </html>
