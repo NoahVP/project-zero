@@ -7,3 +7,5 @@ function scrollFunction() {
     document.getElementById("navbar").style.top = "-75px";
   }
 }
+$('input').val('40');
+$('input').change();
