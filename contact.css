@@ -24,3 +24,37 @@
   background-color: #ddd;
   color: black;
 }
+body{
+  color: white;
+  font-family:  monospace;
+  background-image: url("contact.png");
+  background-repeat: no-repeat;
+}
+#co{
+  margin-left: 44.5%;
+  font-size: 20px;
+}
+#wh{
+  margin-left: 35%;
+  font-size: 15px;
+}
+h1{
+  margin-left: 42%;
+}
+h3{
+  color: black;
+  font-size: 15px;
+}
+.input{
+  height: 20px;
+  width: 200px;
+}
+#input3{
+  height: 100px;
+}
+form{
+  background-color: white;
+  font-size: 15px;
+  margin-right: 70%;
+  margin-left: 10%
+}
