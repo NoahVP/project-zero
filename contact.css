@@ -1,7 +1,7 @@
 #navbar {
   background-color: #333;
   position: fixed;
-  top: -70px;
+  top: 0px;
   left:0;
   right:0;
   width: 100%;
@@ -25,11 +25,14 @@
   color: black;
 }
 body{
-  color: white;
+  color: black;
+
   font-family:  monospace;
   background-image: url("contact.png");
+  height: 100%;
   background-repeat: no-repeat;
-  
+
+
 }
 #co{
   margin-left: 44.5%;
