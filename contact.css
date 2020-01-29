@@ -28,8 +28,7 @@ body{
   color: black;
 
   font-family:  monospace;
-  background-image: url("contact.png");
-  height: 100%;
+  background-image: url("contact.png")
   background-repeat: no-repeat;
 
 
