@@ -67,19 +67,23 @@ form{
   top: 30%;
   font-size: 19px;
 }
-#marije{
-  margin-left: 10%
-}
-#joey{
-  margin-left: 10%
-}
+
 #joeyt{
   position: absolute;
   top: 118%;
-  margin-left: 27%
+  margin-left: 32%
+}
+#nickyt{
+  position: absolute;
+  top: 118%;
+  margin-left: 49.2%;
+}
+#marije{
+  margin-left: 15%;
 }
 .mensen{
   margin-top: 5%;
+  margin-left: 10%;
   border: 2px solid black;
 }
 .mensent{
