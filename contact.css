@@ -53,6 +53,17 @@ h3{
 #input3{
   height: 100px;
 }
+#imy{
+  position: absolute;
+  top: 35%;
+  width: 100px;
+}
+#click{
+  position: absolute;
+  top: 114%;
+  left: 36.5%;
+  height: 50px;
+}
 form{
   border: 1px solid white;
   background-color: white;
@@ -80,6 +91,16 @@ form{
 }
 #marije{
   margin-left: 15%;
+}
+#moniquet{
+  position: absolute;
+  top: 118%;
+  margin-left: 65%;
+}
+#bent{
+  position: absolute;
+  top: 118%;
+  margin-left: 85%
 }
 .mensen{
   margin-top: 5%;
